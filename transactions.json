@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tx1754319411129m3ujlbmy8",
+    "title": "puff",
+    "amount": -20,
+    "category": "Food",
+    "date": "2025-08-04",
+    "isOnline": true
+  },
+  {
+    "id": "tx1754319350391hs1iwgbb4",
+    "title": "Regular",
+    "amount": 100,
+    "category": "Income",
+    "date": "2025-08-04",
+    "isOnline": false
+  }
+]
